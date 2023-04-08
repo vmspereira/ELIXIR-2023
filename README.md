@@ -7,9 +7,9 @@ Sistems Biology Community
 ## Running
 
 ### Run in Colab
-- Go to [https://colab.research.google.com/](https://colab.research.google.com/), pick GITHUB source and put the repository details. 
+- Go to [https://colab.research.google.com/](https://colab.research.google.com/), pick GITHUB source and put the repository details (https://github.com/vmspereira/ELIXIR-2023). 
 
 - Click on the notebook you wish to run.
 
 ### Run in Binder
-Use the binde badge on the top of this file.
+Use the binder badge on the top of this file.
