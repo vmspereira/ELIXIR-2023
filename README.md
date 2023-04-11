@@ -26,4 +26,4 @@ Vítor Pereira, 2023
 
 ----------
 
-Binder hub mirrors (check status [here](https://mybinder.readthedocs.io/en/latest/about/status.html)): [gke](https://gke.mybinder.org/v2/gh/cdanielmachado/teaching/master?urlpath=tree), [ovh](https://ovh.mybinder.org/v2/gh/cdanielmachado/teaching/master?urlpath=tree), [gesis](https://gesis.mybinder.org/v2/gh/cdanielmachado/teaching/master?urlpath=tree), [turing](https://turing.mybinder.org/v2/gh/cdanielmachado/teaching/master?urlpath=tree)
+Binder hub mirrors (check status [here](https://mybinder.readthedocs.io/en/latest/about/status.html)): [gke](https://gke.mybinder.org/v2/gh/vmspereira/ELIXIR-2023/main?urlpath=tree), [ovh](https://ovh.mybinder.org/v2/gh/vmspereira/ELIXIR-2023/main?urlpath=tree), [gesis](https://gesis.mybinder.org/v2/gh/vmspereira/ELIXIR-2023/main?urlpath=tree), [turing](https://turing.mybinder.org/v2/gh/vmspereira/ELIXIR-2023/main?urlpath=tree)
