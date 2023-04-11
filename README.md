@@ -1,7 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vmspereira/ELIXIR-2023/HEAD)
-[![CC BY 4.0][cc-by-shield]][cc-by]
 
-[![CC BY 4.0][cc-by-image]][cc-by]
 
 # ELIXIR-2023 - Hands-on MEWpy
 
