@@ -4,7 +4,11 @@
 # ELIXIR-2023 - Hands-on MEWpy
 
 Sistems Biology Community.
-In this repository you can find two notebooks illustrating how [MEWpy]() may be used to model microbial communities.  
+In this repository you can find three notebooks illustrating how [MEWpy](https://github.com/BioSystemsUM/mewpy) may be used to model microbial communities.
+
+- [Brief introduction to MEWpy](https://github.com/vmspereira/ELIXIR-2023/blob/main/notebooks/intro.ipynb)
+- [Building and analysing communities](https://github.com/vmspereira/ELIXIR-2023/blob/main/notebooks/community.ipynb)
+- [Bacterial cross-feeding via extensive gene loss](https://github.com/vmspereira/ELIXIR-2023/blob/main/notebooks/optimization.ipynb)  
 
 ## Running
 
